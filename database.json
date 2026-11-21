@@ -1,7 +1,7 @@
 {
   "patch_info": {
     "nome": "Patch Futebol Brasil Completo",
-    "versao": "1.0",
+    "versao": "2.1",
     "compativel": "PLS 1.0.45+"
   },
   "ligas": [
@@ -49,4 +49,232 @@
         { "id": 2008, "nome": "Novorizontino", "sigla": "NOV", "forca": 74, "cor_primaria": "#FFD700", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/nov.png", "kit_casa": "", "kit_fora": "" },
         { "id": 2009, "nome": "Vila Nova", "sigla": "VIL", "forca": 74, "cor_primaria": "#E30613", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/vil.png", "kit_casa": "", "kit_fora": "" },
         { "id": 2010, "nome": "Avai", "sigla": "AVA", "forca": 73, "cor_primaria": "#00679A", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/ava.png", "kit_casa": "", "kit_fora": "" },
-        { "id": 2011, "nome": "Chapecoense",
+        { "id": 2011, "nome": "Chapecoense", "sigla": "CHA", "forca": 73, "cor_primaria": "#007A33", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/cha.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 2012, "nome": "CRB", "sigla": "CRB", "forca": 73, "cor_primaria": "#D4001A", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/crb.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 2013, "nome": "Paysandu", "sigla": "PAY", "forca": 73, "cor_primaria": "#009FE3", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/pay.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 2014, "nome": "Remo", "sigla": "REM", "forca": 73, "cor_primaria": "#101820", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/rem.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 2015, "nome": "Operario-PR", "sigla": "OPE", "forca": 72, "cor_primaria": "#000000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/ope.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 2016, "nome": "Botafogo-SP", "sigla": "BSP", "forca": 72, "cor_primaria": "#E30613", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/bsp.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 2017, "nome": "Amazonas", "sigla": "AMA", "forca": 72, "cor_primaria": "#FFD700", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/ama.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 2018, "nome": "Athletic Club", "sigla": "ATH", "forca": 72, "cor_primaria": "#111111", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/ath.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 2019, "nome": "Volta Redonda", "sigla": "VRE", "forca": 71, "cor_primaria": "#FFD700", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/vre.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 2020, "nome": "Ferroviaria", "sigla": "AFE", "forca": 71, "cor_primaria": "#6F1D2B", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/afe.png", "kit_casa": "", "kit_fora": "" }
+      ]
+    },
+    {
+      "id": 103,
+      "nome": "Brasileirao Serie C",
+      "pais": "Brasil",
+      "nivel": 3,
+      "times": [
+        { "id": 3001, "nome": "Tombense", "sigla": "TOM", "forca": 70, "cor_primaria": "#E30613", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/tom.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 3002, "nome": "Nautico", "sigla": "NAU", "forca": 70, "cor_primaria": "#E30613", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/nau.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 3003, "nome": "Figueirense", "sigla": "FIG", "forca": 70, "cor_primaria": "#000000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/fig.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 3004, "nome": "Guarani", "sigla": "GUA", "forca": 70, "cor_primaria": "#006633", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/gua.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 3005, "nome": "Ponte Preta", "sigla": "PON", "forca": 70, "cor_primaria": "#000000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/pon.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 3006, "nome": "Londrina", "sigla": "LON", "forca": 69, "cor_primaria": "#009FE3", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/lon.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 3007, "nome": "Caxias", "sigla": "CAX", "forca": 69, "cor_primaria": "#7A1C24", "cor_secundaria": "#004B87", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/cax.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 3008, "nome": "Ypiranga-RS", "sigla": "YPI", "forca": 69, "cor_primaria": "#FFD700", "cor_secundaria": "#006633", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/ypi.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 3009, "nome": "CSA", "sigla": "CSA", "forca": 69, "cor_primaria": "#003399", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/csa.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 3010, "nome": "ABC", "sigla": "ABC", "forca": 69, "cor_primaria": "#000000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/abc.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 3011, "nome": "Botafogo-PB", "sigla": "BPB", "forca": 69, "cor_primaria": "#000000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/bpb.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 3012, "nome": "Confianca", "sigla": "CON", "forca": 69, "cor_primaria": "#005CA9", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/con.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 3013, "nome": "Sao Bernardo", "sigla": "SBE", "forca": 70, "cor_primaria": "#FFD700", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/sbe.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 3014, "nome": "Brusque", "sigla": "BRU", "forca": 69, "cor_primaria": "#007A33", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/bru.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 3015, "nome": "Ituano", "sigla": "ITU", "forca": 69, "cor_primaria": "#E30613", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/itu.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 3016, "nome": "Anapolis", "sigla": "ANA", "forca": 68, "cor_primaria": "#007A33", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/ana.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 3017, "nome": "Itabaiana", "sigla": "ITA", "forca": 68, "cor_primaria": "#007A33", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/ita.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 3018, "nome": "Maringa", "sigla": "MAR", "forca": 69, "cor_primaria": "#000000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/mar.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 3019, "nome": "Retro", "sigla": "RET", "forca": 69, "cor_primaria": "#000000", "cor_secundaria": "#FFD700", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/ret.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 3020, "nome": "Floresta", "sigla": "FLO", "forca": 68, "cor_primaria": "#007A33", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/flo.png", "kit_casa": "", "kit_fora": "" }
+      ]
+    },
+    {
+      "id": 104,
+      "nome": "Brasileirao Serie D",
+      "pais": "Brasil",
+      "nivel": 4,
+      "times": [
+        { "id": 4001, "nome": "Santa Cruz", "sigla": "STA", "forca": 68, "cor_primaria": "#E30613", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/sta.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 4002, "nome": "Portuguesa", "sigla": "POR", "forca": 68, "cor_primaria": "#D4001A", "cor_secundaria": "#006633", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/por.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 4003, "nome": "Brasiliense", "sigla": "BRS", "forca": 67, "cor_primaria": "#FFD700", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/brs.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 4004, "nome": "Treze", "sigla": "TRE", "forca": 67, "cor_primaria": "#000000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/tre.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 4005, "nome": "America-RN", "sigla": "ARN", "forca": 67, "cor_primaria": "#E30613", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/arn.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 4006, "nome": "Inter de Limeira", "sigla": "ITL", "forca": 67, "cor_primaria": "#000000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/itl.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 4007, "nome": "Pouso Alegre", "sigla": "POU", "forca": 66, "cor_primaria": "#E30613", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/pou.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 4008, "nome": "Joinville", "sigla": "JEC", "forca": 66, "cor_primaria": "#E30613", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/jec.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 4009, "nome": "Sousa", "sigla": "SOU", "forca": 66, "cor_primaria": "#007A33", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/sou.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 4010, "nome": "Ferroviario", "sigla": "FER", "forca": 66, "cor_primaria": "#000000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/fer.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 4011, "nome": "ASA", "sigla": "ASA", "forca": 66, "cor_primaria": "#000000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/asa.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 4012, "nome": "Cianorte", "sigla": "CIA", "forca": 66, "cor_primaria": "#005CA9", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/cia.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 4013, "nome": "Cascavel", "sigla": "FCC", "forca": 66, "cor_primaria": "#FFD700", "cor_secundaria": "#007A33", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/fcc.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 4014, "nome": "Sao Jose-RS", "sigla": "SJO", "forca": 66, "cor_primaria": "#007A33", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/sjo.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 4015, "nome": "Marcilio Dias", "sigla": "MDI", "forca": 66, "cor_primaria": "#004B87", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/mdi.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 4016, "nome": "Barra-SC", "sigla": "BAR", "forca": 65, "cor_primaria": "#005CA9", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/bar.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 4017, "nome": "Goianesia", "sigla": "GNS", "forca": 65, "cor_primaria": "#007A33", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/gns.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 4018, "nome": "Trem", "sigla": "TRM", "forca": 65, "cor_primaria": "#000000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/trm.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 4019, "nome": "Rio Branco-ES", "sigla": "RBR", "forca": 65, "cor_primaria": "#007A33", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/rbr.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 4020, "nome": "Agua Santa-SP", "sigla": "AGS", "forca": 65, "cor_primaria": "#005CA9", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/ags.png", "kit_casa": "", "kit_fora": "" }
+      ]
+    },
+    {
+      "id": 301,
+      "nome": "Paulistao - 1a Divisao (Serie A1)",
+      "pais": "Brasil - SP",
+      "nivel": 5,
+      "times": [
+        { "id": 5101, "nome": "Palmeiras", "sigla": "PAL", "forca": 86, "cor_primaria": "#006437", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/pal.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 5102, "nome": "Sao Paulo", "sigla": "SAO", "forca": 83, "cor_primaria": "#FE0000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/sao.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 5103, "nome": "Corinthians", "sigla": "COR", "forca": 82, "cor_primaria": "#FFFFFF", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/cor.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 5104, "nome": "Santos", "sigla": "SAN", "forca": 80, "cor_primaria": "#FFFFFF", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/san.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 5105, "nome": "RB Bragantino", "sigla": "RBB", "forca": 79, "cor_primaria": "#FFFFFF", "cor_secundaria": "#D2003C", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/rbb.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 5106, "nome": "Novorizontino", "sigla": "NOV", "forca": 74, "cor_primaria": "#FFD700", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/nov.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 5107, "nome": "Ponte Preta", "sigla": "PON", "forca": 70, "cor_primaria": "#000000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/pon.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 5108, "nome": "Guarani", "sigla": "GUA", "forca": 70, "cor_primaria": "#006633", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/gua.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 5109, "nome": "Mirassol", "sigla": "MIR", "forca": 77, "cor_primaria": "#FFD700", "cor_secundaria": "#006400", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/mir.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 5110, "nome": "Portuguesa", "sigla": "POR", "forca": 68, "cor_primaria": "#D4001A", "cor_secundaria": "#006633", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/por.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 5111, "nome": "Agua Santa", "sigla": "AGS", "forca": 67, "cor_primaria": "#005CA9", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/ags.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 5112, "nome": "Inter de Limeira", "sigla": "ITL", "forca": 67, "cor_primaria": "#000000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/itl.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 5113, "nome": "Botafogo-SP", "sigla": "BSP", "forca": 72, "cor_primaria": "#E30613", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/bsp.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 5114, "nome": "Sao Bernardo", "sigla": "SBE", "forca": 70, "cor_primaria": "#FFD700", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/sbe.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 5115, "nome": "Noroeste", "sigla": "NOR", "forca": 66, "cor_primaria": "#E30613", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/nor.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 5116, "nome": "Velo Clube", "sigla": "VEL", "forca": 66, "cor_primaria": "#007A33", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/vel.png", "kit_casa": "", "kit_fora": "" }
+      ]
+    },
+    {
+      "id": 302,
+      "nome": "Paulistao - 2a Divisao (Serie A2)",
+      "pais": "Brasil - SP",
+      "nivel": 6,
+      "times": [
+        { "id": 5201, "nome": "Juventus-SP", "sigla": "JUV", "forca": 64, "cor_primaria": "#6F1D2B", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/juvsp.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 5202, "nome": "Taubate", "sigla": "TAU", "forca": 64, "cor_primaria": "#005CA9", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/tau.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 5203, "nome": "Santo Andre", "sigla": "STO", "forca": 64, "cor_primaria": "#005CA9", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/sto.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 5204, "nome": "Oeste", "sigla": "OES", "forca": 63, "cor_primaria": "#E30613", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/oes.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 5205, "nome": "XV de Piracicaba", "sigla": "XVP", "forca": 64, "cor_primaria": "#000000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/xvp.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 5206, "nome": "Linense", "sigla": "LIN", "forca": 63, "cor_primaria": "#007A33", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/lin.png", "kit_casa": "", "kit_fora": "" }
+      ]
+    },
+    {
+      "id": 303,
+      "nome": "Paulistao - 3a Divisao (Serie A3)",
+      "pais": "Brasil - SP",
+      "nivel": 7,
+      "times": [
+        { "id": 5301, "nome": "Marilia", "sigla": "MAC", "forca": 62, "cor_primaria": "#004B87", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/mac.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 5302, "nome": "Rio Claro", "sigla": "RCL", "forca": 61, "cor_primaria": "#007A33", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/rcl.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 5303, "nome": "Sertaozinho", "sigla": "SER", "forca": 61, "cor_primaria": "#000000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/ser.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 5304, "nome": "Uniao Suzano", "sigla": "USZ", "forca": 60, "cor_primaria": "#E30613", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/usz.png", "kit_casa": "", "kit_fora": "" }
+      ]
+    },
+    {
+      "id": 401,
+      "nome": "Carioca - 1a Divisao (Serie A)",
+      "pais": "Brasil - RJ",
+      "nivel": 5,
+      "times": [
+        { "id": 6101, "nome": "Flamengo", "sigla": "FLA", "forca": 86, "cor_primaria": "#C8102E", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/fla.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 6102, "nome": "Botafogo", "sigla": "BOT", "forca": 85, "cor_primaria": "#000000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/bot.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 6103, "nome": "Fluminense", "sigla": "FLU", "forca": 82, "cor_primaria": "#870A28", "cor_secundaria": "#00613C", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/flu.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 6104, "nome": "Vasco", "sigla": "VAS", "forca": 80, "cor_primaria": "#000000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/vas.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 6105, "nome": "Volta Redonda", "sigla": "VRE", "forca": 71, "cor_primaria": "#FFD700", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/vre.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 6106, "nome": "Boavista", "sigla": "BOA", "forca": 66, "cor_primaria": "#007A33", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/boa.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 6107, "nome": "Nova Iguacu", "sigla": "NIG", "forca": 67, "cor_primaria": "#005CA9", "cor_secundaria": "#E30613", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/nig.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 6108, "nome": "Bangu", "sigla": "BAN", "forca": 65, "cor_primaria": "#E30613", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/ban.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 6109, "nome": "Madureira", "sigla": "MAD", "forca": 65, "cor_primaria": "#FFD700", "cor_secundaria": "#007A33", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/mad.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 6110, "nome": "Portuguesa-RJ", "sigla": "PRJ", "forca": 66, "cor_primaria": "#E30613", "cor_secundaria": "#007A33", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/prj.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 6111, "nome": "Sampaio Correa-RJ", "sigla": "SCR", "forca": 65, "cor_primaria": "#E30613", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/scr.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 6112, "nome": "Marica", "sigla": "MRC", "forca": 64, "cor_primaria": "#005CA9", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/mrc.png", "kit_casa": "", "kit_fora": "" }
+      ]
+    },
+    {
+      "id": 402,
+      "nome": "Carioca - 2a Divisao (Serie A2)",
+      "pais": "Brasil - RJ",
+      "nivel": 6,
+      "times": [
+        { "id": 6201, "nome": "America-RJ", "sigla": "AMR", "forca": 64, "cor_primaria": "#E30613", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/amr.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 6202, "nome": "Resende", "sigla": "RES", "forca": 63, "cor_primaria": "#005CA9", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/res.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 6203, "nome": "Olaria", "sigla": "OLA", "forca": 63, "cor_primaria": "#E30613", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/ola.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 6204, "nome": "Audax Rio", "sigla": "AUD", "forca": 62, "cor_primaria": "#005CA9", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/aud.png", "kit_casa": "", "kit_fora": "" }
+      ]
+    },
+    {
+      "id": 403,
+      "nome": "Carioca - 3a Divisao (Serie B1)",
+      "pais": "Brasil - RJ",
+      "nivel": 7,
+      "times": [
+        { "id": 6301, "nome": "Araruama", "sigla": "ARA", "forca": 60, "cor_primaria": "#FFD700", "cor_secundaria": "#004B87", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/ara.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 6302, "nome": "Campos FC", "sigla": "CMP", "forca": 59, "cor_primaria": "#6F1D2B", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/cmp.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 6303, "nome": "Friburguense", "sigla": "FRI", "forca": 60, "cor_primaria": "#007A33", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/fri.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 6304, "nome": "Goytacaz", "sigla": "GOY", "forca": 59, "cor_primaria": "#004B87", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/goy.png", "kit_casa": "", "kit_fora": "" }
+      ]
+    },
+    {
+      "id": 404,
+      "nome": "Carioca - 4a Divisao (Serie B2 / C)",
+      "pais": "Brasil - RJ",
+      "nivel": 8,
+      "times": [
+        { "id": 6401, "nome": "Cardoso Moreira", "sigla": "CMO", "forca": 58, "cor_primaria": "#005CA9", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/cmo.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 6402, "nome": "Mesquita", "sigla": "MES", "forca": 58, "cor_primaria": "#007A33", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/mes.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 6403, "nome": "Barra da Tijuca", "sigla": "BDT", "forca": 58, "cor_primaria": "#000000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/bdt.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 6404, "nome": "Uniao Central", "sigla": "UCE", "forca": 57, "cor_primaria": "#E30613", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/uce.png", "kit_casa": "", "kit_fora": "" }
+      ]
+    },
+    {
+      "id": 501,
+      "nome": "Capixabao - 1a Divisao",
+      "pais": "Brasil - ES",
+      "nivel": 5,
+      "times": [
+        { "id": 7101, "nome": "Rio Branco-ES", "sigla": "RBR", "forca": 65, "cor_primaria": "#007A33", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/rbr.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 7102, "nome": "Atletico Guarapari", "sigla": "ATG", "forca": 62, "cor_primaria": "#E30613", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/atg.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 7103, "nome": "Desportiva Ferroviaria", "sigla": "DES", "forca": 64, "cor_primaria": "#007A33", "cor_secundaria": "#E30613", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/des.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 7104, "nome": "Vitoria-ES", "sigla": "VES", "forca": 63, "cor_primaria": "#007A33", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/ves.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 7105, "nome": "Porto Vitoria", "sigla": "PVI", "forca": 63, "cor_primaria": "#005CA9", "cor_secundaria": "#FFD700", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/pvi.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 7106, "nome": "Real Noroeste", "sigla": "RNO", "forca": 64, "cor_primaria": "#000000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/rno.png", "kit_casa": "", "kit_fora": "" }
+      ]
+    },
+    {
+      "id": 502,
+      "nome": "Capixabao - 2a Divisao (Serie B)",
+      "pais": "Brasil - ES",
+      "nivel": 6,
+      "times": [
+        { "id": 7201, "nome": "Estrela do Norte", "sigla": "EST", "forca": 60, "cor_primaria": "#005CA9", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/est.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 7202, "nome": "Vilavelhense", "sigla": "VIL", "forca": 59, "cor_primaria": "#007A33", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/vil.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 7203, "nome": "Linhares", "sigla": "LIN", "forca": 59, "cor_primaria": "#004B87", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/lin.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 7204, "nome": "Sport Colatina", "sigla": "SCO", "forca": 58, "cor_primaria": "#E30613", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/sco.png", "kit_casa": "", "kit_fora": "" }
+      ]
+    },
+    {
+      "id": 601,
+      "nome": "Catarinense - 1a Divisao (Serie A)",
+      "pais": "Brasil - SC",
+      "nivel": 5,
+      "times": [
+        { "id": 8101, "nome": "Criciuma", "sigla": "CRI", "forca": 75, "cor_primaria": "#FDD000", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/cri.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 8102, "nome": "Avai", "sigla": "AVA", "forca": 73, "cor_primaria": "#00679A", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/ava.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 8103, "nome": "Chapecoense", "sigla": "CHA", "forca": 73, "cor_primaria": "#007A33", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/cha.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 8104, "nome": "Brusque", "sigla": "BRU", "forca": 69, "cor_primaria": "#007A33", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/bru.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 8105, "nome": "Figueirense", "sigla": "FIG", "forca": 70, "cor_primaria": "#000000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/fig.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 8106, "nome": "Joinville", "sigla": "JEC", "forca": 66, "cor_primaria": "#E30613", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/jec.png", "kit_casa": "", "kit_fora": "" }
+      ]
+    },
+    {
+      "id": 602,
+      "nome": "Catarinense - 2a Divisao (Serie B)",
+      "pais": "Brasil - SC",
+      "nivel": 6,
+      "times": [
+        { "id": 8201, "nome": "Almirante Barroso", "sigla": "ALB", "forca": 62, "cor_primaria": "#005CA9", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/alb.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 8202, "nome": "Metropolitano", "sigla": "MET", "forca": 62, "cor_primaria": "#007A33", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/met.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 8203, "nome": "Juventus-SC", "sigla": "JSC", "forca": 62, "cor_primaria": "#005CA9", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/jsc.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 8204, "nome": "Guarani de Palhoca", "sigla": "GPA", "forca": 61, "cor_primaria": "#007A33", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/gpa.png", "kit_casa": "", "kit_fora": "" }
+      ]
+    }
+  ]
+}
+
