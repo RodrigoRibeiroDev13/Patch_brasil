@@ -1,0 +1,52 @@
+{
+  "patch_info": {
+    "nome": "Patch Futebol Brasil Completo",
+    "versao": "1.0",
+    "compativel": "PLS 1.0.45+"
+  },
+  "ligas": [
+    {
+      "id": 101,
+      "nome": "Brasileirao Serie A",
+      "pais": "Brasil",
+      "nivel": 1,
+      "times": [
+        { "id": 1001, "nome": "Atletico-MG", "sigla": "CAM", "forca": 84, "cor_primaria": "#111111", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/cam.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 1002, "nome": "Flamengo", "sigla": "FLA", "forca": 86, "cor_primaria": "#C8102E", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/fla.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 1003, "nome": "Palmeiras", "sigla": "PAL", "forca": 86, "cor_primaria": "#006437", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/pal.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 1004, "nome": "Cruzeiro", "sigla": "CRU", "forca": 82, "cor_primaria": "#003399", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/cru.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 1005, "nome": "Botafogo", "sigla": "BOT", "forca": 85, "cor_primaria": "#000000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/bot.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 1006, "nome": "Sao Paulo", "sigla": "SAO", "forca": 83, "cor_primaria": "#FE0000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/sao.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 1007, "nome": "Internacional", "sigla": "INT", "forca": 83, "cor_primaria": "#E5050F", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/int.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 1008, "nome": "Gremio", "sigla": "GRE", "forca": 82, "cor_primaria": "#0D80BF", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/gre.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 1009, "nome": "Corinthians", "sigla": "COR", "forca": 82, "cor_primaria": "#FFFFFF", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/cor.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 1010, "nome": "Fluminense", "sigla": "FLU", "forca": 82, "cor_primaria": "#870A28", "cor_secundaria": "#00613C", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/flu.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 1011, "nome": "Bahia", "sigla": "BAH", "forca": 81, "cor_primaria": "#005CA9", "cor_secundaria": "#E30613", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/bah.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 1012, "nome": "Fortaleza", "sigla": "FOR", "forca": 81, "cor_primaria": "#004A99", "cor_secundaria": "#E30613", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/for.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 1013, "nome": "Vasco", "sigla": "VAS", "forca": 80, "cor_primaria": "#000000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/vas.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 1014, "nome": "Santos", "sigla": "SAN", "forca": 80, "cor_primaria": "#FFFFFF", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/san.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 1015, "nome": "RB Bragantino", "sigla": "RBB", "forca": 79, "cor_primaria": "#FFFFFF", "cor_secundaria": "#D2003C", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/rbb.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 1016, "nome": "Vitoria", "sigla": "VIT", "forca": 78, "cor_primaria": "#E30613", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/vit.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 1017, "nome": "Ceara", "sigla": "CEA", "forca": 78, "cor_primaria": "#000000", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/cea.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 1018, "nome": "Sport", "sigla": "SPT", "forca": 78, "cor_primaria": "#D4001A", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/spt.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 1019, "nome": "Juventude", "sigla": "JUV", "forca": 77, "cor_primaria": "#008B45", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/juv.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 1020, "nome": "Mirassol", "sigla": "MIR", "forca": 77, "cor_primaria": "#FFD700", "cor_secundaria": "#006400", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/mir.png", "kit_casa": "", "kit_fora": "" }
+      ]
+    },
+    {
+      "id": 102,
+      "nome": "Brasileirao Serie B",
+      "pais": "Brasil",
+      "nivel": 2,
+      "times": [
+        { "id": 2001, "nome": "America-MG", "sigla": "AME", "forca": 76, "cor_primaria": "#007A33", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/ame.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 2002, "nome": "Athletico-PR", "sigla": "CAP", "forca": 78, "cor_primaria": "#CE1126", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/cap.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 2003, "nome": "Coritiba", "sigla": "CFC", "forca": 75, "cor_primaria": "#00543D", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/cfc.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 2004, "nome": "Goias", "sigla": "GOI", "forca": 75, "cor_primaria": "#005E38", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/goi.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 2005, "nome": "Atletico-GO", "sigla": "ACG", "forca": 75, "cor_primaria": "#E30613", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/acg.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 2006, "nome": "Criciuma", "sigla": "CRI", "forca": 75, "cor_primaria": "#FDD000", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/cri.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 2007, "nome": "Cuiaba", "sigla": "CUI", "forca": 75, "cor_primaria": "#006633", "cor_secundaria": "#FFCC00", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/cui.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 2008, "nome": "Novorizontino", "sigla": "NOV", "forca": 74, "cor_primaria": "#FFD700", "cor_secundaria": "#000000", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/nov.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 2009, "nome": "Vila Nova", "sigla": "VIL", "forca": 74, "cor_primaria": "#E30613", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/vil.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 2010, "nome": "Avai", "sigla": "AVA", "forca": 73, "cor_primaria": "#00679A", "cor_secundaria": "#FFFFFF", "escudo": "https://raw.githubusercontent.com/RodrigoRibeiroDev13/Patch_brasil/main/escudos/ava.png", "kit_casa": "", "kit_fora": "" },
+        { "id": 2011, "nome": "Chapecoense",
